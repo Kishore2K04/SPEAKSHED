@@ -1,0 +1,8 @@
+{
+    "timezone": "Asia/Kolkata",
+    "wake_word": "hello",
+    "quick_add_prefix": "quick",
+    "vosk_model_path": "vosk-model",
+    "listen_timeout": 8,
+    "confirm_before_saving": true
+}

@@ -1,0 +1,8 @@
+vosk
+pyaudio
+pyttsx3
+apscheduler
+python-dateutil
+pytz
+pystray
+pillow

@@ -1,0 +1,7 @@
+vosk-model/
+tasks.db
+scheduler.log
+__pycache__/
+*.pyc
+venv/
+.env
