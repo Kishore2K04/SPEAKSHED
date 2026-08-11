@@ -25,7 +25,7 @@ python main.py
 
 ## Usage
 
-Say the wake word (default: **"Jarvis"**), wait for "Yes sir?", then speak a command:
+Say the wake word (default: **"hello"**), wait for "Yes sir?", then speak a command:
 
 - "Remind me to buy milk tomorrow at 6 PM"
 - "Remind me to take medicine every day at 9 AM"
