@@ -47,3 +47,17 @@ Say the wake word (default: **"hello"**), wait for "Yes sir?", then speak a comm
 - Site shortcuts live in `sites.json` — just add new entries as `"name": "url"`.
 - Logs are written to `scheduler.log`.
 - Minimizes to system tray if `pystray` is installed.
+
+## 📄License
+
+MIT License
+
+---
+
+## 👨‍💻 Author
+
+Developed by **Kishore S**
+
+Computer Science Engineering Student
+
+AI & Full-Stack Developer
